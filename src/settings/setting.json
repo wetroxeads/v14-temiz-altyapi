@@ -1,0 +1,10 @@
+{
+  "GuildID": "Sunucu ID",
+  "ClientID": "Bot ID", 
+  "prefix": ["."],
+  "MongoURL": "Mongo Url",
+  "Footer": "Wetrox ❤️ v14", 
+  "Owner": ["Owner ID","Owner ID 2"], 
+  "Durum": ["Wetrox ❤️ v14"],
+  "VoiceChannel": "Bot Ses ID"
+}
